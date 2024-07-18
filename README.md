@@ -1,9 +1,13 @@
 # Bot
 
-This is a old version of the Bot.
+## Overview
+This repository contains an **old version** of the Bot.
 
-I do Have a newer version but i do not plan on updating this to that newer version or atleast pubicly.
+## Important Notice
+I have a **newer version** of the Bot, but I do not plan on updating this repository with the newer version, at least publicly.
 
-This is becuase i do not want people to abuse this script so this is a very old version.
+### Why?
+The primary reason is to **prevent misuse** of the script. This version is intentionally outdated to ensure it remains educational rather than exploitable.
 
-THIS IS FOR EDUCATIONAL PURPOSES ONLY
+## Disclaimer
+**THIS IS FOR EDUCATIONAL PURPOSES ONLY.**
